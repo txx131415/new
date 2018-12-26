@@ -1,0 +1,53 @@
+2018-12-25 19:08:57,020 - root - INFO - Segment range: 1325894400000 - 1325980800000, status_code: 500
+2018-12-25 19:08:57,372 - root - INFO - Segment range: 1325980800000 - 1326067200000, status_code: 500
+2018-12-25 19:08:57,712 - root - INFO - Segment range: 1326067200000 - 1326153600000, status_code: 500
+2018-12-25 19:08:58,169 - root - INFO - Segment range: 1326153600000 - 1326240000000, status_code: 500
+2018-12-25 19:08:58,782 - root - INFO - Segment range: 1326240000000 - 1326326400000, status_code: 500
+2018-12-25 19:08:59,118 - root - INFO - Segment range: 1326326400000 - 1326412800000, status_code: 500
+2018-12-25 19:08:59,420 - root - INFO - Segment range: 1326412800000 - 1326499200000, status_code: 500
+2018-12-25 19:08:59,773 - root - INFO - Segment range: 1326499200000 - 1326585600000, status_code: 500
+2018-12-25 19:09:00,027 - root - INFO - interrupt by Ctrl+C or Ctrl+D
+2018-12-25 19:09:00,546 - root - INFO - Segment range: 1325894400000 - 1325980800000, status_code: 500
+2018-12-25 19:09:01,329 - root - INFO - Segment range: 1325980800000 - 1326067200000, status_code: 500
+2018-12-25 19:09:01,638 - root - INFO - Segment range: 1326067200000 - 1326153600000, status_code: 500
+2018-12-25 19:09:02,365 - root - INFO - Segment range: 1326153600000 - 1326240000000, status_code: 500
+2018-12-25 19:09:02,680 - root - INFO - Segment range: 1326240000000 - 1326326400000, status_code: 500
+2018-12-25 19:09:03,017 - root - INFO - Segment range: 1326326400000 - 1326412800000, status_code: 500
+2018-12-25 19:09:03,282 - root - INFO - interrupt by Ctrl+C or Ctrl+D
+2018-12-25 20:04:53,498 - root - INFO - Segment range: 0 - 86400000, status_code: 200
+2018-12-25 20:04:54,925 - root - INFO - Segment range: 86400000 - 172800000, status_code: 200
+2018-12-25 20:04:55,556 - root - INFO - Segment range: 172800000 - 259200000, status_code: 200
+2018-12-25 20:04:55,556 - root - INFO - -----------------length of startTimeList: 6
+2018-12-25 20:05:11,813 - root - INFO - Segment range: 0 - 86400000, status_code: 500
+2018-12-25 20:05:17,769 - root - INFO - Segment range: 86400000 - 172800000, status_code: 500
+2018-12-25 20:05:23,994 - root - INFO - Segment range: 172800000 - 259200000, status_code: 500
+2018-12-25 20:05:26,611 - root - INFO - interrupt by Ctrl+C or Ctrl+D
+2018-12-25 20:06:45,361 - root - INFO - Segment range: 0 - 86400000, status_code: 200
+2018-12-25 20:06:45,380 - root - INFO - Segment range: 86400000 - 172800000, status_code: 200
+2018-12-25 20:06:45,399 - root - INFO - Segment range: 172800000 - 259200000, status_code: 200
+2018-12-25 20:06:45,399 - root - INFO - -----------------length of startTimeList: 6
+2018-12-25 20:06:55,878 - root - INFO - Segment range: 0 - 86400000, status_code: 500
+2018-12-25 20:06:56,164 - root - INFO - Segment range: 86400000 - 172800000, status_code: 500
+2018-12-25 20:06:56,261 - root - INFO - Segment range: 172800000 - 259200000, status_code: 500
+2018-12-25 20:06:56,339 - root - INFO - Segment range: 86400000 - 172800000, status_code: 500
+2018-12-25 20:06:56,430 - root - INFO - Segment range: 172800000 - 259200000, status_code: 500
+2018-12-25 20:06:56,689 - root - INFO - Segment range: 259200000 - 345600000, status_code: 200
+2018-12-25 20:06:56,689 - root - INFO - -----------------length of startTimeList: 10
+2018-12-25 20:07:01,591 - root - INFO - interrupt by Ctrl+C or Ctrl+D
+2018-12-25 20:08:10,762 - root - INFO - Segment range: 1354838400000 - 1354924800000, status_code: 200
+2018-12-25 20:08:10,809 - root - INFO - Segment range: 1354924800000 - 1355011200000, status_code: 200
+2018-12-25 20:08:10,875 - root - INFO - Segment range: 1355011200000 - 1355097600000, status_code: 200
+2018-12-25 20:08:11,162 - root - INFO - Segment range: 1355097600000 - 1355184000000, status_code: 200
+2018-12-25 20:08:11,217 - root - INFO - Segment range: 1355184000000 - 1355270400000, status_code: 200
+2018-12-25 20:08:11,268 - root - INFO - Segment range: 1355270400000 - 1355356800000, status_code: 200
+2018-12-25 20:08:11,317 - root - INFO - Segment range: 1355356800000 - 1355443200000, status_code: 200
+2018-12-25 20:08:11,371 - root - INFO - Segment range: 1355443200000 - 1355529600000, status_code: 200
+2018-12-25 20:08:11,634 - root - INFO - Segment range: 1355529600000 - 1355616000000, status_code: 200
+2018-12-25 20:08:11,716 - root - INFO - Segment range: 1355616000000 - 1355702400000, status_code: 200
+2018-12-25 20:08:11,716 - root - INFO - -----------------length of startTimeList: 10
+2018-12-25 20:08:15,635 - root - INFO - interrupt by Ctrl+C or Ctrl+D
+2018-12-25 21:43:12,336 - root - INFO - Segment range: 86400000 - 172800000, status_code: 200
+2018-12-25 21:43:13,259 - root - INFO - Segment range: 172800000 - 259200000, status_code: 200
+2018-12-25 21:43:13,516 - root - INFO - Segment range: 259200000 - 345600000, status_code: 200
+2018-12-25 21:43:13,516 - root - INFO - -----------------length of startTimeList: 6
+2018-12-25 21:43:18,433 - root - INFO - interrupt by Ctrl+C or Ctrl+D
