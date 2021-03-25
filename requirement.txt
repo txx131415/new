@@ -22,7 +22,7 @@ pytest-html==1.19.0
 pytest-metadata==1.7.0
 pytest-rerunfailures==5.0
 pytest-xdist==1.24.1
-PyYAML==3.13
+PyYAML==5.4
 query-string==1.0.2
 request==1.0.2
 requests==2.20.0
